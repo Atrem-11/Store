@@ -9,4 +9,4 @@ Test writing: Artyom Timofeev
 
 Server deployment: Artyom Timofeev
 
-Testing the interface and application logic: https://www.behance.net/f1a683e5
+Testing the interface and application logic: Ekaterina Rudenko https://www.behance.net/f1a683e5
