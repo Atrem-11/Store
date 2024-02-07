@@ -1,6 +1,5 @@
 # Store Server
 
-___
 #### Development and design of a Django server for an online clothing store.
 #### Local development and server deployment.
 
